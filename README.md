@@ -1,7 +1,7 @@
 Conflict?
 
 -new text
--another new text AF
+-another new tex
 
 -Rudy branched
 
